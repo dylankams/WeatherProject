@@ -1,5 +1,6 @@
 # Application mobile de météo
-![appli-meteo](https://github.com/dylankams/WeatherProject/assets/67558526/6c6d5b82-482a-4e80-857e-58a484a0b6c0)
+![weather-app](https://github.com/dylankams/WeatherProject/assets/67558526/4657e6ba-73cf-4309-82cf-ee6968061573)
+
 
 
 Il s'agit application mobile de météo qui affiche les prévisions météorologiques actuelles et futures.
